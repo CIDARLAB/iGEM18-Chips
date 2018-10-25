@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="135mm"
+   height="85mm"
+   viewBox="0 0 135000 85000"
+   version="1.1"
+   id="svg463"
+   sodipodi:docname="border.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata467">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="790"
+     id="namedview465"
+     showgrid="false"
+     inkscape:zoom="1.7960539"
+     inkscape:cx="255.11811"
+     inkscape:cy="160.62992"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g461" />
+  <defs
+     id="defs433">
+    <radialGradient
+       cx="80000"
+       cy="40000"
+       r="700"
+       gradientUnits="userSpaceOnUse"
+       id="color-1">
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop423" />
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop425" />
+    </radialGradient>
+    <radialGradient
+       cx="20000"
+       cy="40000"
+       r="700"
+       gradientUnits="userSpaceOnUse"
+       id="color-2">
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop428" />
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop430" />
+    </radialGradient>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="none"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray=""
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode: normal"
+     id="g461">
+    <path
+       d="M135000,-400v800l-135000,0v-800z"
+       fill="#303f9f"
+       stroke-width="0"
+       id="path445" />
+    <path
+       d="M135400,85000h-800v-85000h800z"
+       fill="#303f9f"
+       stroke-width="0"
+       id="path447" />
+    <path
+       d="M0,85400v-800h135000v800z"
+       fill="#303f9f"
+       stroke-width="0"
+       id="path449" />
+    <path
+       d="M-400,0l800,0l0,85000h-800z"
+       fill="#303f9f"
+       stroke-width="0"
+       id="path451" />
+  </g>
+</svg>
